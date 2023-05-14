@@ -41,6 +41,6 @@ int Train::getLength() {
   return cages;
 }
 
-int Train::getOpCount() { 
+int Train::getOpCount() {
   return countOp;
 }
